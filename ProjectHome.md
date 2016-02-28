@@ -1,0 +1,1 @@
+Designed to be an extensible record keeping system for students, teachers, volunteering, families, emergency contacts, disciplinary actions, menu ordering and whatever else you want.  Also functions as online payment notification hub and database.
